@@ -6,6 +6,7 @@ Projeto acadêmico desenvolvido com Spring Boot, Thymeleaf e PostgreSQL para ger
 
 ## Tecnologias Utilizadas
 
+- Eclipse IDE
 - Java
 - Spring Boot
 - Spring Data JPA
